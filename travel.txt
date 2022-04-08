@@ -4,3 +4,7 @@ zapatos
 ropa
 chalas
 Chela
+--------------
+Carrete
+--------------
+Piscola
